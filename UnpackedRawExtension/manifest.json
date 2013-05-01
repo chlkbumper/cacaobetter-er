@@ -1,0 +1,14 @@
+{
+	"name": "Cacao Patch",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Enhance Cacaoweb's user interface to fit nowadays trends",
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	},
+	"background": {
+    "scripts": ["jquery-1.9.1.min.js","popup.js"]
+	},
+	"permissions": ["tabs", "<all_urls>"]
+}
