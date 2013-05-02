@@ -1,7 +1,7 @@
 cacaobetter-er
 ==============
 
-A Chrome extension that dynamically modify webpage source code to make it better ! 
+A Chrome extension that dynamically modifies webpages source code to make it better ! 
 
 It's bringing its bunch of features: 
 
@@ -15,6 +15,5 @@ It's bringing its bunch of features:
 How to install it?
 ------------------
 
-In Google Chrome, open up the Settings page, and select Extensions, and "Add unpacked extension (?)
+In Google Chrome, open up the Settings page, select Extensions, and "Add unpacked extension" (?)
 Once added, it will automatically patch up Cacaoweb when it will open.
-
